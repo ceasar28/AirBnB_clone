@@ -1,4 +1,1 @@
-.idea
-__pyc*
-*.json
-main/
+__pycache__
